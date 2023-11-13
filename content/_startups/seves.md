@@ -11,13 +11,13 @@ stats: false
 contact: anne.devoret@beta.gouv.fr
 ---
 
-## Le contexte :
+## Le contexte
 Aujourd'hui, lorsqu'un évènement sanitaire survient, ce sont les directions départementales (DDecPP) , les directions régionales (SRAL) et l'administration centrale (MUS) qui sont en charge de décrire, suivre, diffuser l'information et d'accompagner les acteurs vers une maitrise des risques. Ces évènements peuvent survenir dans 3 domaines :  la sécurité sanitaires des aliments, la santé des végétaux et la santé des animaux. Il pas de solution numérique nationale unifiant le suivi pour l'ensemble des agents publics concernés. On compte néanmoins le logiciel SORA Alertes, développé historiquement par la DGCCRF, qui permet à ce jour aux agents en charge de la sécurité sanitaires des aliments de qualifier et gérer certains évènements (Alertes nationales, alertes locales, notifications sanitaires, autres non conformités produits). L'usage de SORA a permis de confirmer le besoin urgent d'un outil partagé. Néanmoins, ce logiciel sera décommissionné en 2025.
 L'investigation a donc portée sur la l'importance d'étendre les fonctionnalités de SORA a l'ensemble des agents concernés (santé des végétaux et santé des animaux), sur les améliorations fonctionnelles nécessaires à une meilleure performance, aux adaptations nécessaires pour couvrir l'ensemble des évènements.
 
 
 
-## Le problème : 
+## Le problème 
 
 Le problème générer par l'absence de moyens de description et de suivi mutualisés sont multiples et touches l'ensemble des services concernés.
 
@@ -41,14 +41,14 @@ Le problème générer par l'absence de moyens de description et de suivi mutual
 *Une traçabilité fragile*
 • l’archivage étant manuel, il est sujet à oubli. 
 
-## La solution : 
+## La solution 
 
 SÈVES est un outil à destination de l’ensemble de la DGAL et de ses services déconcentrés, il permet la gestion partagée des événement sanitaires : sécurité sanitaires des aliments, santé des végétaux et santé des animaux. 
 SÈVES permet à la fois de décrire les évènements sanitaires, de partager les informations nécessaires à leur gestion, et de tracer les décisions prises et les actions engagées. 
 SÈVES permet aussi la valorisation de ces actions (analyse de risque, bilan annuel des services, inducteurs d’activité, etc.). 
 Il contribue à l’harmonisation des mesures de gestions sur les territoires et à la capitalisation des savoirs. 
 
-## La stratégie : 
+## La stratégie 
 
 Pour déployer l'usage de SÈVES à l'ensemble des agents concernés, nous débuterons par la branche santé des végétaux. 
 Car cette branche est aujourd'hui : 
